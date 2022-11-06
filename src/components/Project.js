@@ -4,11 +4,12 @@ import React from 'react';
 
 function Project() {
     return (
-        <div style={styles.card}>
-            <div style={styles.heading}>
+        <div>This is my projects page</div>
+        // <div style={styles.card}>
+            // <div style={styles.heading}>
 
-            </div>
-        </div>
+        //     </div>
+        // </div>
     );
 }
 

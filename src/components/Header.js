@@ -5,11 +5,12 @@ import React from 'react';
 
 // use JSX curly braces to evaluate style object
 function Header() {
-    const headerText = "TBD";
     return (
-        <header style={styles.headerStyle} className="header">
-            <h1 style={styles.headingStyle}>{ headerText }</h1>
-        </header>
+
+        <header>header in progress</header>
+        // <header style={styles.headerStyle} className="header">
+        //     <h1 style={styles.headingStyle}> Nicholas Wong </h1>
+        // </header>
     );
 }
 
