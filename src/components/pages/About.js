@@ -11,6 +11,7 @@ const styles = {
     },
     image: {
         width: "200px",
+        margin: "left 20px",
 
     }
 }
