@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import PortfolioContainer from './components/PortfolioContainer';
 import Footer from './components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const styles = {
     appStyles: {
