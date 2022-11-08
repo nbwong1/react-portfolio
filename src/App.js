@@ -3,11 +3,18 @@ import Header from './components/Header';
 import PortfolioContainer from './components/PortfolioContainer';
 import Footer from './components/Footer';
 
+const styles = {
+    appStyles: {
+        background: "#262626",
+    },
+}
 function App() {
     return (
-        <div>
+        <div style={styles.appStyles}>
             <Header />
-            <PortfolioContainer />
+            <div style={styles.appStyles}>
+                <PortfolioContainer />
+            </div>
             <Footer />          
         </div>
     );

@@ -9,6 +9,7 @@ const styles = {
       textAlign: 'right',
       flex: 'inline',
       color: 'white',
+      padding: "right 5px",
       
     },
 }
