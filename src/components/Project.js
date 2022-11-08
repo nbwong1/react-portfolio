@@ -4,13 +4,13 @@ import React from 'react';
 
 function Project() {
     return (
-        <div>This is my projects page</div>
-        // <div style={styles.card}>
-            // <div style={styles.heading}>
-
-        //     </div>
-        // </div>
-    );
+        <div>
+            <h5>Title Name</h5>
+            <img alt="image coming soon" />
+            <a>Deployed App link "WIP" </a>
+            <a>Github Repo Link "WIP"</a>
+        </div>
+    )
 }
 
 export default Project;

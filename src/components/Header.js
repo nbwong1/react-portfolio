@@ -13,7 +13,7 @@ const styles = {
       flex: 'inline',
       color: 'white',
       padding: "right 5px",
-      
+      marginRight: "20px"
     },
 }
 
@@ -21,11 +21,8 @@ const styles = {
 function Header() {
     return (
         <header style={styles.headerStyle} className="Footer"> 
-            Nicholas Wong
+          Nicholas Wong
         </header>
-        // <header style={styles.headerStyle} className="header">
-        //     <h1 style={styles.headingStyle}> Nicholas Wong </h1>
-        // </header>
     );
 }
 
