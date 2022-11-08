@@ -6,13 +6,9 @@ import Footer from './components/Footer';
 function App() {
     return (
         <div>
-            <header>
-                <Header />
-            </header>
+            <Header />
             <PortfolioContainer />
-            <footer>
-                <Footer />
-            </footer>            
+            <Footer />          
         </div>
     );
 }

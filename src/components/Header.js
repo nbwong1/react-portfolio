@@ -1,13 +1,24 @@
 import React from 'react';
-// add file for styles or import bootstrap?
-// import '../styles/Header.css';
 // if using styles, incorporate styles variable and objects
+const styles = {
+    headerStyle: {
+      background: 'linear-gradient(to right, black, purple)',
+    //   position: 'fixed',
+      width: '100%',
+      top: 0,
+      textAlign: 'right',
+      flex: 'inline',
+      color: 'white',
+      
+    },
+}
 
 // use JSX curly braces to evaluate style object
 function Header() {
     return (
-
-        <header>header in progress</header>
+        <header style={styles.headerStyle} className="Footer"> 
+            Nicholas Wong
+        </header>
         // <header style={styles.headerStyle} className="header">
         //     <h1 style={styles.headingStyle}> Nicholas Wong </h1>
         // </header>
