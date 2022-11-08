@@ -1,5 +1,5 @@
 import React from 'react';
-import NickImage from '../images/Nick-Square.jpeg';
+import NickImage from '../assets/Nick-Square.jpeg';
 
 
 const styles = {
