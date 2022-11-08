@@ -5,6 +5,10 @@ import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 
+// creating styles for each of the items
+// const styles = {
+
+// }
 export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState('About');
   
