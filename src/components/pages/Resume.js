@@ -19,7 +19,8 @@ export default function Resume() {
     return (
         <div>
             <h3 style={styles.resumeTitle}>My Resume</h3>
-            <p style={styles.resumeText}>Download my resume:<span href={myResume} download>here</span></p>
+            <p style={styles.resumeText}>Download my resume: <a href={myResume} download>here</a></p>
+            
         </div>
     );
 }
