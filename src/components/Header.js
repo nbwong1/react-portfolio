@@ -1,4 +1,6 @@
 import React from 'react';
+import Navigation from './Navigation';
+
 // if using styles, incorporate styles variable and objects
 const styles = {
     headerStyle: {
