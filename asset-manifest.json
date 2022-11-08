@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-portfolio/static/js/main.512fa3ff.js",
+    "static/media/Nick-Square.jpeg": "/react-portfolio/static/media/Nick-Square.973244b2361159344f5b.jpeg",
+    "static/media/2021 Twitter logo - blue.png": "/react-portfolio/static/media/2021 Twitter logo - blue.f963dcac51d5020e10f3.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.512fa3ff.js.map": "/react-portfolio/static/js/main.512fa3ff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.512fa3ff.js"
+  ]
+}
