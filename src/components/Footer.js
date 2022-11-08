@@ -1,8 +1,10 @@
 import React from 'react';
 // add file for styles or import bootstrap?
-const GitHubLogo = require("./images/GitHub-Mark-Light-32px.png")
-const LinkedInLogo = require("./images/LI-In-Bug.png")
-const TwitterLogo = require("./images/2021 Twitter logo - blue.png")
+const GitHubLogo = require("./images/GitHub-Mark-Light-32px.png");
+const LinkedInLogo = require("./images/LI-In-Bug.png");
+const TwitterLogo = require("./images/2021 Twitter logo - blue.png");
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
 
 // if using styles, incorporate styles variable and objects
 const styles = {

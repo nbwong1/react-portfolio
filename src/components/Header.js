@@ -1,5 +1,7 @@
 import React from 'react';
 import Navigation from './Navigation';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
 
 // if using styles, incorporate styles variable and objects
 const styles = {
