@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.4b0d5c95.css",
-    "main.js": "/react-portfolio/static/js/main.47d608bc.js",
+    "main.js": "/react-portfolio/static/js/main.a96bb33a.js",
     "static/media/Nick-Square.jpeg": "/react-portfolio/static/media/Nick-Square.973244b2361159344f5b.jpeg",
     "static/media/2021 Twitter logo - blue.png": "/react-portfolio/static/media/2021 Twitter logo - blue.f963dcac51d5020e10f3.png",
     "static/media/wongCV2022.docx": "/react-portfolio/static/media/wongCV2022.18ed49df75e565d5d2d9.docx",
     "index.html": "/react-portfolio/index.html",
     "main.4b0d5c95.css.map": "/react-portfolio/static/css/main.4b0d5c95.css.map",
-    "main.47d608bc.js.map": "/react-portfolio/static/js/main.47d608bc.js.map"
+    "main.a96bb33a.js.map": "/react-portfolio/static/js/main.a96bb33a.js.map"
   },
   "entrypoints": [
     "static/css/main.4b0d5c95.css",
-    "static/js/main.47d608bc.js"
+    "static/js/main.a96bb33a.js"
   ]
 }
