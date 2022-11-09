@@ -32,7 +32,7 @@ function Footer() {
                 <img src={LinkedInLogo} style={styles.iconStyles} alt="this is the linkedin logo" />
             </a>
             {/* twitter */}
-            <a href="https://twitter.com/nickwongcodes" >
+            <a href="https://twitter.com/dra90n1t3" >
                 <img src={TwitterLogo} style={styles.iconStyles} alt="this is the twitter logo" />
             </a>
         </footer>
